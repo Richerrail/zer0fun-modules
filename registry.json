@@ -1,0 +1,23 @@
+{
+  "name": "zer0fun registry",
+  "description": "Registre local de modules fun zer0gh0st",
+  "schema": 1,
+  "modules": [
+    {
+      "name": "dosgames",
+      "version": "0.1.0",
+      "description": "Lanceur de jeux DOS via DOSBox (.IMA / .IMG / .EXE)",
+      "authors": [
+        "AI Generated"
+      ],
+      "license": "MIT",
+      "category": "game",
+      "download_url": "https://github.com/Richerrail/zer0fun-modules/releases/download/v0.1.0/libzer0fun_dosgames.so",
+      "signature_url": null,
+      "sha256": "bc003e9e49539ac51a16b1e54c118d8300cdf568672d7bd04d91c2a3d09906d3",
+      "target": null,
+      "homepage": "https://github.com/Richerrail/zer0fun-modules",
+      "published_at": "1795393414"
+    }
+  ]
+}

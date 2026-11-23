@@ -1,0 +1,16 @@
+[module]
+name = "dosgames"
+version = "0.1.0"
+description = "Lanceur de jeux DOS via DOSBox (.IMA / .IMG / .EXE)"
+authors = ["AI Generated"]
+license = "MIT"
+category = "game"
+
+[permissions]
+network = false
+fs_read = true
+fs_write = false
+process = true
+clipboard = false
+notifications = false
+audio = false
